@@ -2,15 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "sesc"
+      "name": "sesc"
     },
     {
       "id": 2,
-      "title": "einstein"
-    },
-    {
-      "id": 3,
-      "title": "filoo"
+      "name": "einstein"
     }
   ],
   "profile": {
