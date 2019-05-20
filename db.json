@@ -5,7 +5,7 @@
       "name": "sesc"
     }
   ],
-  "configs": {
+  "configurations": {
       "PRODUCT_BUNDLE_IDENTIFIER": "io.redspark.gestta",
       "PRODUCT_NAME": "gestta",
       "COMPANY_PRIMARY_COLOR": "#00FF00"
