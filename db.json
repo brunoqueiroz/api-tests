@@ -5,13 +5,13 @@
       "name": "sesc"
     }
   ],
-  "android": [{
+  "android": {
       "suffix": "instagram",
       "app_name": "instagram",
       "company_theme": "dark",
       "company_id": 12,
       "company_primary": "#000000"
-    }]
+    }
   ,
    "products": [{
       "PRODUCT_BUNDLE_IDENTIFIER": "io.redspark.gestta",
