@@ -5,10 +5,12 @@
       "name": "sesc"
     }
   ],
-  "configurations": [{
-      "PRODUCT_BUNDLE_IDENTIFIER": "io.redspark.gestta",
-      "PRODUCT_NAME": "gestta",
-      "COMPANY_PRIMARY_COLOR": "#00FF00"
+  "android": [{
+      "suffix": "instagram",
+      "app_name": "instagram",
+      "company_theme": "dark",
+      "company_id": 12,
+      "company_primary": "#000000"
     }]
   ,
    "products": [{
