@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "name": "sesc"
+      "name": "lulu"
     }
   ],
   "android": {
-      "suffix": "sesc",
-      "app_name": "sesc",
+      "suffix": "lulu",
+      "app_name": "lulu",
       "company_theme": "DARK",
       "company_id": 12,
       "company_primary": "#000000"
