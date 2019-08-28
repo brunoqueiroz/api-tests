@@ -6,8 +6,8 @@
     }
   ],
   "android": {
-      "suffix": "instagram",
-      "app_name": "instagram",
+      "suffix": "sesc",
+      "app_name": "sesc",
       "company_theme": "DARK",
       "company_id": 12,
       "company_primary": "#000000"
