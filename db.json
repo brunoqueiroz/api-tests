@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "name": "fachine"
+      "name": "leandro"
     }
   ],
   "android": {
-      "suffix": "fachine",
-      "app_name": "fachine",
+      "suffix": "leandro",
+      "app_name": "leandro",
       "company_theme": "DARK",
       "company_id": 12,
       "company_primary": "#000000"
